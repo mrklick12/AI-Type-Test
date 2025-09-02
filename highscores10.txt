@@ -1,0 +1,11 @@
+IsaacNewton 56.12
+JohnSmith 82.89
+CharlieGeorge 30.15
+AmeerSheikh 67.46
+CharlesDickens 75.15
+AliSheikh: 21.33
+AliSheikh: 65.21
+AliSheikh: 83.98
+MrKlick: 121.38
+AliSheikh: 73.93
+MrKlick: 110.69
